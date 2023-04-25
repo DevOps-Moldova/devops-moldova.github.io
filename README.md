@@ -9,8 +9,8 @@ Simple - We try to explain things from basiscs to experts
 
 
 👩‍ Our locations
-- https://t.me/+tqp4aRgys_NjMWEy
-- https://www.facebook.com/groups/devops.md
-- https://www.youtube.com/@DevopsCommunityMoldova
-- https://devops-moldova.github.io/
+- [Telegram](https://t.me/+tqp4aRgys_NjMWEy)
+- [Facebook](https://www.facebook.com/groups/devops.md)
+- [Youtube](https://www.youtube.com/@DevopsCommunityMoldova)
+- [Site](https://devops-moldova.github.io/)
 
