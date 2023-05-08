@@ -30,5 +30,5 @@ DevOps Moldova is a community of DevOps engineers and entusiasts from Moldova wh
 - [Tekwill](https://tekwill.md/){:target="_blank"} Home of our events.
 - [Software Mind](https://softwaremind.com/){:target="_blank"} Media partner.
 - [Endava](https://www.endava.com/){:target="_blank"} Media partner.
-- [EDS Integrator](https://ebs-integrator.com/){:target="_blank"} Media partner.
+- [EBS Integrator](https://ebs-integrator.com/){:target="_blank"} Media partner.
 - [PowerIT](https://powerit.dev/){:target="_blank"} Elearning platform.
