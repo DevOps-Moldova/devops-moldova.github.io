@@ -20,9 +20,9 @@ We're kicking things off with our first FREE workshop:
 
 **Location:** Tekwill Center,Chisinau
 
-**Registration:** [LINK]
+**Registration:** [Register here](https://tekwill.typeform.com/to/RAx4ZWYP){:target="_blank"}
 
-**Workshop:** "From Zero to Hero: Navigating DevOps for Beginners" Dive into the world of DevOps, exploring its philosophy, methods, and technologies with none others than leading local DevOps specialists!
+**Workshop:** "[From Zero to Hero: Navigating DevOps for Beginners](https://tekwill.md/course/navigating-devops-for-beginners/){:target="_blank"}" Dive into the world of DevOps, exploring its philosophy, methods, and technologies with none others than leading local DevOps specialists!
 
 And if you wonder why should you attend, here are some motifs:
 
@@ -32,7 +32,7 @@ And if you wonder why should you attend, here are some motifs:
 - Network with like-minded peers and professionals;
 - Unlock your potential in the ever-growing tech industry;
 
-*Limited seats are available, so register now and be part of the DevOps revolution:* [LINK]
+*Limited seats are available, so register now and be part of the DevOps revolution: [From Zero to Hero: Navigating DevOps for Beginners](https://tekwill.md/course/navigating-devops-for-beginners/){:target="_blank"}
 
 If you want to stay in the loop with our community and get all the latest updates, join our [telegram channel](https://t.me/+tqp4aRgys_NjMWEy){:target="_blank"} or join to our [facebook group](https://www.facebook.com/groups/devops.md){:target="_blank"}
 
