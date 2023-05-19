@@ -19,7 +19,7 @@ DevOps Moldova is a community of DevOps engineers and entusiasts from Moldova wh
 - [Youtube](https://www.youtube.com/@DevopsCommunityMoldova){:target="_blank"} hosting for our videos.
 - [Site](https://devops-moldova.github.io/) You are here.
 - [Repository](https://github.com/DevOps-Moldova){:target="_blank"} repository for our code and examples.
-- [LearnIT](https://learnit.md/){:target="_blank"} Online courses for DevOps.
+- [LearnIT](https://learnit.md/course/index.php?categoryid=15){:target="_blank"} Online courses for DevOps.
 
 ## 📅 Our Events
 
