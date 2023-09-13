@@ -23,6 +23,7 @@ DevOps Moldova is a community of DevOps engineers and entusiasts from Moldova wh
 
 ## 📅 Our Events
 
+- 23 September 2023 [Optimize your work with Docker](optimize_with_docker)
 - 20 May 2023 [From Zero to Hero: Navigating DevOps for Beginners](initiate_in_devops)
 
 ## ⭐ Our Partners
