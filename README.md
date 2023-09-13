@@ -2,21 +2,25 @@
 
 ## 🙋‍♀️ Who we are
 
-DevOps Moldova is a community of DevOps engineers and entusiasts from Moldova who want to share his experience and help others to become a good DevOps
+DevOps Moldova is a community of passionate DevOps engineers and enthusiasts hailing from Moldova, dedicated to sharing their expertise and assisting others on their journey to mastering the art of DevOps.. Unlock the Power of Collaboration in DevOps: Join Our Community of Innovators!
 
 ## 🍿 Our principles
 
-**Free** - All our resources are OpenSource and free
+**Free** - All of our assets are open-source and available to the community at no cost
 
-**Simple** - We try to explain things from basics to experts
+**Simple** - We aim to provide explanations that cater to both novices and experts, starting from the fundamentals and progressing to advanced concepts
 
-**CompanyFree** - We're working for community not for companies. Companies which help us are mentioned as partners
+**CompanyFree** - Our primary focus is on serving the community, rather than catering to corporate interests. We acknowledge and recognize companies that support our mission as valued partners
+
+**Entuziasts** - We welcome collaboration with DevOps enthusiasts who are eager to share their experiences with the community
 
 ## 🏘️ Our locations
 
-- [Telegram](https://t.me/+tqp4aRgys_NjMWEy){:target="_blank"} for news and discusisons.
+- [Telegram](https://t.me/devops_moldova){:target="_blank"} for news and discusisons.
 - [Facebook](https://www.facebook.com/groups/devops.md){:target="_blank"} where we publish our anouncements.
+- [Linkedin](https://www.linkedin.com/company/devops-moldova/){:target="_blank"} our page in linkedin.
 - [Youtube](https://www.youtube.com/@DevopsCommunityMoldova){:target="_blank"} hosting for our videos.
+- [Site](https://devops.md){:target="_blank"} Our new site.
 - [Site](https://devops-moldova.github.io/) You are here.
 - [Repository](https://github.com/DevOps-Moldova){:target="_blank"} repository for our code and examples.
 - [LearnIT](https://learnit.md/course/index.php?categoryid=15){:target="_blank"} Online courses for DevOps.
@@ -31,5 +35,4 @@ DevOps Moldova is a community of DevOps engineers and entusiasts from Moldova wh
 - [Tekwill](https://tekwill.md/){:target="_blank"} Home of our events.
 - [Software Mind](https://softwaremind.com/){:target="_blank"} Media partner.
 - [Endava](https://www.endava.com/){:target="_blank"} Media partner.
-- [EBS Integrator](https://ebs-integrator.com/){:target="_blank"} Media partner.
 - [PowerIT](https://powerit.dev/){:target="_blank"} Elearning platform.
